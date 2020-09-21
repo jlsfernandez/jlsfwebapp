@@ -1,0 +1,170 @@
+[
+  {
+    "courseId": "microsoft-azure-image-data",
+    "courseName": "Building Features from Image Data in Microsoft Azure",
+    "courseAuthor": "David Tucker",
+    "modules": [
+      {
+        "moduleId": "cvis-m01",
+        "title": "Course Overview",
+        "clips": [
+          {
+            "clipId": 1,
+            "title": "Course Overview"
+          }
+        ]
+      },
+      {
+        "moduleId": "cvis-m02",
+        "title": "Exploring Computer Vision on Azure",
+        "clips": [
+          {
+            "clipId": 2,
+            "title": "Overview"
+          },
+          {
+            "clipId": 3,
+            "title": "Introduction to Computer Vision"
+          },
+          {
+            "clipId": 4,
+            "title": "Approaches to Computer Vision"
+          },
+          {
+            "clipId": 5,
+            "title": "Azure Services for Computer Vision"
+          },
+          {
+            "clipId": 6,
+            "title": "Launching a Data Science Virtual Machine"
+          },
+          {
+            "clipId": 7,
+            "title": "Summary"
+          }
+        ]
+      },
+      {
+        "moduleId": "cvis-m03",
+        "title": "Utilizing the SIFT and HOG Algorithms for Feature Detection",
+        "clips": [
+          {
+            "clipId": 8,
+            "title": "Overview"
+          },
+          {
+            "clipId": 9,
+            "title": "Image Processing Techniques"
+          },
+          {
+            "clipId": 10,
+            "title": "SIFT Introduction"
+          },
+          {
+            "clipId": 11,
+            "title": "Extracting and Matching Features with SIFT"
+          },
+          {
+            "clipId": 12,
+            "title": "HOG Introduction"
+          },
+          {
+            "clipId": 13,
+            "title": "Extracting and Matching Features with HOG"
+          },
+          {
+            "clipId": 14,
+            "title": "Summary"
+          }
+        ]
+      }
+    ],
+    "link": "https://app.pluralsight.com/library/courses/microsoft-azure-image-data-building-features"
+  },
+  {
+    "courseId": "microsoft-azure-designing-machine-learning",
+    "courseName": "Designing Machine Learning Solutions on Microsoft Azure",
+    "courseAuthor": "David Tucker",
+    "modules": [
+      {
+        "moduleId": "azml-m01",
+        "title": "Course Overview",
+        "clips": [
+          {
+            "clipId": 1,
+            "title": "Course Overview"
+          }
+        ]
+      },
+      {
+        "moduleId": "azml-m02",
+        "title": "Understanding the Azure Machine Learning Workflow",
+        "clips": [
+          {
+            "clipId": 2,
+            "title": "Overview"
+          },
+          {
+            "clipId": 3,
+            "title": "Data Science Challenges"
+          },
+          {
+            "clipId": 4,
+            "title": "Introduction to the Team Data Science Process"
+          },
+          {
+            "clipId": 5,
+            "title": "TDSP Data Science Lifecycle"
+          },
+          {
+            "clipId": 6,
+            "title": "Reviewing TDSP Resources"
+          },
+          {
+            "clipId": 7,
+            "title": "Creating a TDSP Project"
+          },
+          {
+            "clipId": 8,
+            "title": "Summary"
+          }
+        ]
+      },
+      {
+        "moduleId": "azml-m03",
+        "title": "Working with the Azure Machine Learning Workflow",
+        "clips": [
+          {
+            "clipId": 9,
+            "title": "Overview"
+          },
+          {
+            "clipId": 10,
+            "title": "Azure Machine Learning Workflow"
+          },
+          {
+            "clipId": 11,
+            "title": "Launhcing a Notebook Server"
+          },
+          {
+            "clipId": 12,
+            "title": "Leveraging Compute for Model Training"
+          },
+          {
+            "clipId": 13,
+            "title": "Training a Model"
+          },
+          {
+            "clipId": 14,
+            "title": "Deploying a Model"
+          },
+          {
+            "clipId": 15,
+            "title": "Summary"
+          }
+        ]
+      }
+    ],
+    "link": "https://app.pluralsight.com/library/courses/microsoft-azure-designing-machine-learning-solutions/table-of-contents"
+  }
+]
